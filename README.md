@@ -35,10 +35,6 @@ This is a practice project designed to create an e-commerce grocery shopping pla
 
 ---
 
-## Environment Variables
-
-The project requires the following environment variables. Create a `.env` file in both the frontend and backend directories with the following:
-
 ### Frontend `.env`:
 ```
 REACT_APP_SERVER_DOMIN = "http://localhost:8000"
@@ -117,24 +113,17 @@ Grocerry-website
 ```
 
 ---
-
-## Security Note
-
-- **NEVER** expose your `.env` file or secrets in a public repository.
-- Use `.gitignore` to exclude `.env` files from being committed.
-
----
-
-## Future Enhancements
-
-- Implement advanced filtering and search functionality.
-- Add user reviews and product ratings.
-- Create a responsive mobile-friendly UI.
-
----
-
-## License
-
-This project is for practice purposes and is not intended for production use. Feel free to clone and modify it for your learning!
-
----
+![Screenshot 2024-12-13 160051](https://github.com/user-attachments/assets/6d565733-da22-416f-affa-8c53dfc2e918)
+![Screenshot 2024-12-13 160112](https://github.com/user-attachments/assets/32ede65a-8732-4eeb-a3e0-1fc938944ecd)
+![Screenshot 2024-12-13 160134](https://github.com/user-attachments/assets/07df28ba-3c5f-4fe9-ad18-4ac8d1beec5c)
+![Screenshot 2024-12-13 160146](https://github.com/user-attachments/assets/374e3403-9c30-4d27-9d55-576315696dd3)
+![Screenshot 2024-12-13 160315](https://github.com/user-attachments/assets/e650d59c-0627-41f2-99ec-90be8d02bda9)
+![Screenshot 2024-12-13 160331](https://github.com/user-attachments/assets/03831fea-915b-4c6b-93a1-bd594bb83bfb)
+![Screenshot 2024-12-13 160341](https://github.com/user-attachments/assets/e8a481be-29c8-412f-a5b8-492c6a6382d8)
+![Screenshot 2024-12-13 160358](https://github.com/user-attachments/assets/f5091156-ef0d-407d-a3b7-be42531b5326)
+![Screenshot 2024-12-13 160409](https://github.com/user-attachments/assets/6d7f4dd9-e1cc-4bda-9f07-82b53f4fa878)
+![Screenshot 2024-12-13 160420](https://github.com/user-attachments/assets/7a7965ac-3298-4f20-8fca-feee161498b4)
+![Screenshot 2024-12-13 160504](https://github.com/user-attachments/assets/a8b61fe3-b51d-48cc-a028-5e19b82a2c96)
+![Screenshot 2024-12-13 160516](https://github.com/user-attachments/assets/eda588e5-66b9-4884-81d0-eff414ff8cb7)
+![Screenshot 2024-12-13 160607](https://github.com/user-attachments/assets/e01cbb5a-0ff4-4ab0-b756-659db1828b3b)
+![Screenshot 2024-12-13 161445](https://github.com/user-attachments/assets/9169e814-b604-4be4-af13-c55a8ce62517)
